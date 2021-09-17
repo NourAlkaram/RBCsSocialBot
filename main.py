@@ -15,7 +15,7 @@ from pydrive.auth import GoogleAuth
 #gauth.LocalWebserverAuth() 
 #drive = GoogleDrive(gauth)
 
-TOKEN = "1428504700:AAGWNviK8XYFYhDc-YFkRZdmUmiNpbehtVM"
+TOKEN = "????"
 updater = Updater(TOKEN, use_context=True)
 keybordLayouts = {
     "main": [['السنة الأولى', 'السنة الثانية'], ['السنة الثالثة', 'السنة الرابعة']],
